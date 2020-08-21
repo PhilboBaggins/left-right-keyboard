@@ -4,6 +4,16 @@
 
 ...
 
+## TODO
+
+* [ ] Build and test a board
+* [ ] Design and build case
+* [ ] Improve PCB
+    * [ ] Fix designator for Teensy
+    * [ ] Add "JLCJLCJLCJLC" to silkscreen ... under Teensy, where it won't be seen
+    * [ ] Add silkscreen markings to indicate LED polarity
+    * [ ] Add silkscreen markings to indicate resistor value
+
 ## Design files
 
 This board was designed using the [Upverter](https://upverter.com) web service.
