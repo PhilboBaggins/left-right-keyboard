@@ -1,8 +1,8 @@
 # Left-Right Keyboard
 
-<img align="right" src="../_common/PlaceholderImage.png">
+A board with 4 buttons on the left and 4 on the right. Intended to be used as a keyboard for a computer; mostly for sending shortcut keys to VLC (e.g. `Ctrl+Left` and `Ctrl+Right` to skip back and forward).
 
-...
+I've pretty much abandoned this project in favour of [PicoKeys](https://github.com/PhilboBaggins/pico-keys).
 
 ## TODO
 
