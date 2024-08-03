@@ -4,6 +4,8 @@ A board with 4 buttons on the left and 4 on the right. Intended to be used as a 
 
 I've pretty much abandoned this project in favour of [PicoKeys](https://github.com/PhilboBaggins/pico-keys).
 
+![Board without Teensy](./board-photo.jpg)
+
 ## TODO
 
 * [ ] Build and test a board
